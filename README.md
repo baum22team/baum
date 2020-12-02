@@ -1,3 +1,1 @@
-`Weihnachtsbaumanimation.html` ist auf der Webseite eingebunden!
-
-`project(1).html` nicht!
+`Weihnachtsbaumanimation.html` und `Tannenbaum.html` ist auf der Webseite eingebunden!
